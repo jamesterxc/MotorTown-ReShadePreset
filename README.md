@@ -14,28 +14,19 @@ Place the preset file ReShadePreset.ini into your Motor Town directory or anywhe
 
 3. Select Motor Town in ReShade
 When the ReShade installer opens:
-
 Scroll through the detected games list.
-
 Select:
-
 MotorTown-Win64-Shipping.exe
-
 If it does not appear automatically, click Browse and navigate to:
-
 Code
 Steam\steamapps\common\MotorTownBehindTheWheel\
 Click Next.
 
 4. Choose Rendering API
 Select:
-
 DirectX 10/11/12
-
 Motor Town uses DirectX 11, so this is the correct option.
-
 Click Next.
-
 5. Import the Preset
 At the bottom of the ReShade window, click Browse and select:
 
@@ -46,9 +37,7 @@ Do not change any other settings unless you intend to customize the preset.
 
 6. Required In‑Game Brightness Setting
 To ensure stable exposure, set:
-
 Settings → Display → Brightness → 100
-
 Motor Town’s exposure system is tied directly to the brightness slider.
 Brightness at 100 prevents extreme exposure jumps that cause glare or darkness.
 
@@ -62,34 +51,19 @@ Your preset will already be active.
 
 Troubleshooting
 If truck cosmetics disappear:
-
 Reinstall ReShade
-
 Re‑import ReShadePreset.ini
-
 This resolves missing paint, decals, and accessories.
 
 Results
 No more daytime glare
-
 No more nighttime blindness
-
 Smooth exposure transitions
-
 Cosmetics remain visible
-
 Zero performance impact
 
 Stable lighting with brightness at 100
-
 If you want, I can also generate:
-
 A shorter “Quick Install” section
 
-A “Why this works” technical explanation
 
-A features list
-
-A changelog template
-
-A license block
