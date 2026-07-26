@@ -1,3 +1,5 @@
+ITS NOT PERFECT YET SO NO NO FULL RELESE YET SOME CODE NOT MUCH
+
 This preset fixes Motor Town’s unstable exposure system, eliminating daytime glare, nighttime darkness, and random brightness spikes.
 It also ensures truck cosmetics (paint, decals, accessories) remain visible.
 
