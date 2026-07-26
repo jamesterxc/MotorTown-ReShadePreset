@@ -62,8 +62,4 @@ Smooth exposure transitions
 Cosmetics remain visible
 Zero performance impact
 
-Stable lighting with brightness at 100
-If you want, I can also generate:
-A shorter “Quick Install” section
-
 
